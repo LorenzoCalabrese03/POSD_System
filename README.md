@@ -53,5 +53,5 @@ Assicurati di avere i seguenti prerequisiti installati sulla tua macchina prima 
 Questo progetto è stato sviluppato da:
 
 - [@checcoconf](https://github.com/checcoconf)
-- [@lcalabrese28](https://github.com/LorenzoCalabrese03)
+- [@LorenzoCalabrese03](https://github.com/LorenzoCalabrese03)
 - [@GiuseppePioDeBiase](https://github.com/GiuseppePioDeBiase)
